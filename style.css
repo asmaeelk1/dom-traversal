@@ -1,0 +1,31 @@
+.main_div{
+    width: 60vw;
+    height: 60vh;
+    background-color: aliceblue;
+    margin: auto;
+}
+.sec1{
+    width: 95%;
+    height: 80%;
+    background-color: beige;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+
+}
+.sec1 div {
+    width: 70px;
+    height: 70px;
+    background-color: red;
+}
+.sec2{
+  width: 95%;
+  height: 15%;
+  background-color: beige;
+ margin: auto;
+ margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+}
